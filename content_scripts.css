@@ -1,0 +1,9 @@
+#delusion-center-border-grid-1987{
+    border-left: 1px solid black;
+    width: 0;
+    top: 0;
+    left: 50%;
+    height: 100vh;
+    position: fixed;
+    z-index: 362187;
+}
