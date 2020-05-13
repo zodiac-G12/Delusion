@@ -1,5 +1,5 @@
 window.onload = function() {
-    return createDiv();
+    // return createDiv();
 }
 
 function createDiv () {
